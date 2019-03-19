@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Pending intent sample</string>
+
+    <string name="pending_intent">Pending intent</string>
+
+    <string name="noti_content_title">Notification title</string>
+    <string name="noti_content_text">Notification message</string>
+    <string name="noti_ticker">Notification summary</string>
+
+    <string name="noti_receive_id">Notification id = %d</string>
+    <string name="noti_receive_text">Notification text = %s</string>
+
+</resources>
